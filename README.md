@@ -1,6 +1,6 @@
 # ColorChanger
 
-## First view of thr application
+## First view of the application
 ![Screenshot_20191229-173813_Expo](https://user-images.githubusercontent.com/40399665/71557089-38226e00-2a67-11ea-90a4-9d93ad2a7d29.jpg)
 
 ## different random color on the button as well as on-screen
